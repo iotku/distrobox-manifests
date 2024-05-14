@@ -1,0 +1,3 @@
+--enable-libx264
+--enable-nvdec
+--enable-vaapi
